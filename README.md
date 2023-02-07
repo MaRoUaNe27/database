@@ -1,2 +1,2 @@
 # database
-Contrl Database Sql by vb.net form
+Control Database Sql by vb.net form
